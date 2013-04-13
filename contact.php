@@ -8,6 +8,7 @@
 	Version			:		1.0
 */	
 
+$contact = "contact oerson goes here";
 
 	
 ?>
